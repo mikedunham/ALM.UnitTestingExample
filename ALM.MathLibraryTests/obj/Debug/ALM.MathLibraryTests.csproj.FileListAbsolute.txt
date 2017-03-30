@@ -1,0 +1,7 @@
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\bin\Debug\ALM.MathLibraryTests.dll
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\bin\Debug\ALM.MathLibraryTests.pdb
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\bin\Debug\ALM.MathLibrary.dll
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\bin\Debug\ALM.MathLibrary.pdb
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\obj\Debug\ALM.MathLibraryTests.csprojResolveAssemblyReference.cache
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\obj\Debug\ALM.MathLibraryTests.dll
+C:\dev\ALM.UnitTestingExample\ALM.MathLibraryTests\obj\Debug\ALM.MathLibraryTests.pdb

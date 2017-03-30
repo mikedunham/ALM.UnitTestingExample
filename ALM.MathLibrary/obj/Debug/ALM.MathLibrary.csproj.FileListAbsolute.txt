@@ -1,0 +1,4 @@
+C:\dev\ALM.UnitTestingExample\ALM.MathLibrary\bin\Debug\ALM.MathLibrary.dll
+C:\dev\ALM.UnitTestingExample\ALM.MathLibrary\bin\Debug\ALM.MathLibrary.pdb
+C:\dev\ALM.UnitTestingExample\ALM.MathLibrary\obj\Debug\ALM.MathLibrary.dll
+C:\dev\ALM.UnitTestingExample\ALM.MathLibrary\obj\Debug\ALM.MathLibrary.pdb
